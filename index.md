@@ -3,16 +3,44 @@ layout: page
 title: Klax'pont
 tagline: Klaxpont c'est génial, tu trouves un pont, tu klaxonnes.
 ---
+
+
 ## Le concept
 
-e Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
 
+Klaxpont c'est quoi? Tout est parti d'un trip entre amis. Lors d'un weekend sur la route, en se rendant vers un festival de musique, après quelques heures tous les sujets de conversation étaient épuisés, est venue alors l'idée de klaxonner sous les nombreux ponts se trouvant sur la route. 
+
+Puis, c'est devenu une habitude que bizarrement un bon nombre de personnes partageait, de klaxonner sous les ponts pour écouter ce son particulier.
+
+Le nombre d'adeptes a grandi au sein d'un groupe [Facebook](https://www.facebook.com/groups/14270796378/), et le nombre de videos partagées également sur un [blog](http://klaxpont.blogspot.com).
+
+Depuis une collection de videos sont disponibles sur [Dailymotion](http://www.dailymotion.com/user/klaxpont/1).
+
+---
 ## L'application
 
-e Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
+![Klaxpont logo v1](/assets/images/klaxpont_logo_v1.jpg)
 
-## En savoir plus
+L'idée de faire une application Klaxpont est d'abord de voir ce qui peut être fait par une bande de potes dans leur temps libre...
 
-e Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
+et éventuellement de relancer ce phénomène à travers 3 plateformes web, iOS et Android.
 
+
+### Fonctionnalités
+
+
+Il sera possible de :
+
+* consulter les videos Klaxpont
+* enregistrer sa vidéo
+* partager sa vidéo avec ses amis Klaxponteurs
+* ...
+
+---
+## Besoin d'aide
+
+
+Pour l'instant seulement un prototype fonctionnel a été créé pour chaque plateforme, mais il manque surtout un design qui représenterait l'esprit décallé du concept et de son équipe.
+
+C'est pourquoi nous recherchons des âmes charitables qui pourraient nous aider dans le design de ces 3 applications.
 
